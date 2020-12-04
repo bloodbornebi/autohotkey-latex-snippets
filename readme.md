@@ -1,3 +1,6 @@
+# Maintained version
+Now that this has proved difficult to fix (issues, etc.), see [here](https://github.com/bloodbornebi/latex-snippets-for-windows) for a maintained version.
+
 # Initial Post from Gilles Castel
 *[How I'm able to take notes in mathematics lectures using LaTeX and Vim](https://castel.dev/post/lecture-notes-1/)*
 
